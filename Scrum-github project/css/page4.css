@@ -1,0 +1,11 @@
+/**
+ * Style
+ */
+section {
+    width: 39em;
+    height: 16em;
+    background-color: #ffffff;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}

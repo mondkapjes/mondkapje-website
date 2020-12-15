@@ -1,0 +1,12 @@
+/**
+ * Style
+ */
+section {
+    width: 36em;
+    height: 20em;
+    box-sizing: border-box;
+    padding: 2em;
+    background-color: #ffffff;
+    font-size: large;
+    font-weight: 600;
+}

@@ -1,0 +1,9 @@
+/**
+ * Style
+ */
+section {
+    position: relative;
+    width: 40em;
+    height: 40em;
+    background-color: #ffffff;
+}
