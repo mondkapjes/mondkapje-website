@@ -1,0 +1,13 @@
+/**
+ * Style
+ */
+section {
+    box-sizing: border-box;
+    padding: 1em;
+}
+section:last-of-type {
+    font-size: large;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
